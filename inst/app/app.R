@@ -1,1 +1,1 @@
-shiny::shinyApp(visLasso:::app_ui(), visLasso:::app_server())
+shiny::shinyApp(visLasso:::app_ui(), visLasso:::app_server)
